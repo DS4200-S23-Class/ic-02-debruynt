@@ -1,8 +1,22 @@
 head {
-	font-famliy: Arial, sans-serif;
+	font-family: Arial, sans-serif;
+	text-align: center;
 }
 
 body {
 	font-family: Arial, sans-serif;
+}
+
+.container {
+	border-style: solid;
+}
+
+#p1 {
+	color: DarkGreen;
+}
+
+.h3 {
+	font-family: Arial, sans-serif;
+	text-align: center;
 }
 
